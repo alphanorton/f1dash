@@ -1,0 +1,69 @@
+{
+  "MRData": {
+    "ConstructorTable": {
+      "season": "2026",
+      "Constructors": [
+        {
+          "constructorId": "red_bull",
+          "name": "Red Bull Racing",
+          "nationality": "Austrian",
+          "url": "http://en.wikipedia.org/wiki/Red_Bull_Racing"
+        },
+        {
+          "constructorId": "ferrari",
+          "name": "Ferrari",
+          "nationality": "Italian",
+          "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari"
+        },
+        {
+          "constructorId": "mclaren",
+          "name": "McLaren",
+          "nationality": "British",
+          "url": "http://en.wikipedia.org/wiki/McLaren"
+        },
+        {
+          "constructorId": "mercedes",
+          "name": "Mercedes",
+          "nationality": "German",
+          "url": "http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One"
+        },
+        {
+          "constructorId": "aston_martin",
+          "name": "Aston Martin",
+          "nationality": "British",
+          "url": "http://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One"
+        },
+        {
+          "constructorId": "alpine",
+          "name": "Alpine F1 Team",
+          "nationality": "French",
+          "url": "http://en.wikipedia.org/wiki/Alpine_F1_Team"
+        },
+        {
+          "constructorId": "williams",
+          "name": "Williams",
+          "nationality": "British",
+          "url": "http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering"
+        },
+        {
+          "constructorId": "alphatauri",
+          "name": "AlphaTauri",
+          "nationality": "Italian",
+          "url": "http://en.wikipedia.org/wiki/Scuderia_AlphaTauri"
+        },
+        {
+          "constructorId": "alfa",
+          "name": "Alfa Romeo",
+          "nationality": "Swiss",
+          "url": "http://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One"
+        },
+        {
+          "constructorId": "haas",
+          "name": "Haas F1 Team",
+          "nationality": "American",
+          "url": "http://en.wikipedia.org/wiki/Haas_F1_Team"
+        }
+      ]
+    }
+  }
+}
